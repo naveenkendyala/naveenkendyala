@@ -4,7 +4,7 @@
 
 <div style="text-align:center;width:100%;display:inline-block;">
   <div style="width:46%;margin:2%;display:inline-block;float:left;">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=naveenkendyala&theme=tokyonight&hide_border=true&disable_animations=false&hide=contribs,prs&include_all_commits=true&show_icons=true&theme=graywhite" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=naveenkendyala&theme=tokyonight&hide_border=true&disable_animations=false&hide=contribs,prs&include_all_commits=true&show_icons=true" />
   </div>
 </div>
 

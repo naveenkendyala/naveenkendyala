@@ -1,6 +1,6 @@
 
 
-> ## *"Evaluate, Embrance & Execute"* -- My Dad
+> ## *"Evaluate, Embrace & Execute"* -- My Dad
 
 <div align="center">
 

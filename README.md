@@ -10,4 +10,14 @@
 <a href="https://github.com/naveenkendyala">
      <img width="51%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkendyala&custom_title=Repository : Top Languages&hide=css,html&langs_count=6&layout=compact&theme=tokyonight&card_width=420" />
 </a>
+
 </div>
+
+<div><br/></div>
+<div><br/></div>
+
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->

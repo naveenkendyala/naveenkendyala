@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/naveenkendyala">
-     <img width="50%" font="" src="https://github-readme-stats.vercel.app/api?username=naveenkendyala&custom_title=Naveen Kendyala : GitHub Stats, Rank&hide=contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=55&hide_rank=false" />
+     <img width="50%" font="" src="https://github-readme-stats.vercel.app/api?username=naveenkendyala&custom_title=Naveen Kendyala : GitHub Stats, Rank&hide=''&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=46&hide_rank=false" />
 </a>
 <a href="https://github.com/naveenkendyala">
      <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkendyala&custom_title=Repository : Top Languages&hide=css,html&langs_count=6&layout=default&theme=tokyonight&card_width=420" />
@@ -17,8 +17,5 @@
 
 ### 📺 My Latest YouTube Channel Videos
 <!-- YOUTUBE:START -->
-- [OpenShift.AMQ.Streams.Kafka.Installation](https://www.youtube.com/watch?v=ncTtRPwLwuM)
-- [What is Containerization | Physical Servers vs VMs vs Containers | What is a Container?](https://www.youtube.com/watch?v=Cu4iPxPAjWI)
-- [Welcome Message](https://www.youtube.com/watch?v=LpGc5PShjvk)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...](https://www.youtube.com/channel/UCS7nXaoZ1ujCKlSggkWeyhg)

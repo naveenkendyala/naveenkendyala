@@ -1,6 +1,10 @@
+
+
+> # *"Evaluate, Embrance & Execute"* -- My Dad
+
+
 <div align="center">
 
-<a style="font-size:75px;color:neon;">"Evaluate, Embrance & Execute" -- My Dad</a>
 
 <a href="https://github.com/naveenkendyala">
      <img width="49%" font="" src="https://github-readme-stats.vercel.app/api?username=naveenkendyala&custom_title=Naveen Kendyala : GitHub Stats&&hide=prs,contribs&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=46" />

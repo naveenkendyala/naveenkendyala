@@ -3,10 +3,8 @@
 > ## *"Evaluate, Embrace & Execute"* -- My Dad
 
 <div style="text-align:center;width:100%;display:inline-block;">
-  <div style="width:46%;margin:2%;display:inline-block;float:left;">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=naveenkendyala&theme=tokyonight&hide_border=true&disable_animations=false&hide=contribs,prs&include_all_commits=true&show_icons=true&count_private=true" />
   </div>
-  <div style="width:46%;margin:2%;display:inline-block;float:left;">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkendyala&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&disable_animations=false&card_width=500&line_height=35&hide=css,html" />
   </div>  
 </div>
